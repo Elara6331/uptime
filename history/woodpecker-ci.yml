@@ -1,7 +1,7 @@
 url: https://ci.elara.ws
-status: down
-code: 502
-responseTime: 270
-lastUpdated: 2023-12-05T20:08:23.609Z
+status: up
+code: 200
+responseTime: 416
+lastUpdated: 2023-12-05T20:22:53.596Z
 startTime: 2023-11-11T21:57:05.172Z
 generator: Upptime <https://github.com/upptime/upptime>
