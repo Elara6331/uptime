@@ -4,10 +4,10 @@
     "url": "https://gitea.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.elara.ws.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
     "time": 510,
@@ -16,6 +16,7 @@
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-23": 74,
       "2023-11-14": 29
     }
@@ -25,9 +26,9 @@
     "url": "https://www.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/www.elara.ws.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
@@ -37,6 +38,7 @@
     "timeMonth": 460,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-23": 74,
       "2023-11-14": 29
     }
@@ -46,10 +48,10 @@
     "url": "https://lure.sh",
     "icon": "https://icons.duckduckgo.com/ip3/lure.sh.ico",
     "slug": "lure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
     "time": 512,
@@ -58,6 +60,7 @@
     "timeMonth": 506,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-23": 73,
       "2023-11-14": 29
     }
@@ -67,9 +70,9 @@
     "url": "https://ci.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/ci.elara.ws.ico",
     "slug": "woodpecker-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
@@ -79,6 +82,7 @@
     "timeMonth": 422,
     "timeYear": 406,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-23": 73,
       "2023-11-14": 29
     }
@@ -88,9 +92,9 @@
     "url": "https://search.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/search.elara.ws.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
@@ -100,6 +104,7 @@
     "timeMonth": 435,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-23": 72
     }
   },
@@ -108,9 +113,9 @@
     "url": "https://minio.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/minio.elara.ws.ico",
     "slug": "min-io-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
@@ -120,6 +125,7 @@
     "timeMonth": 400,
     "timeYear": 398,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-23": 72
     }
   },
@@ -128,9 +134,9 @@
     "url": "https://matrix.arsenm.dev",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.arsenm.dev.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.90%",
@@ -140,6 +146,7 @@
     "timeMonth": 462,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-23": 71
     }
   },
@@ -148,9 +155,9 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
@@ -160,6 +167,7 @@
     "timeMonth": 438,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-23": 71
     }
   }
