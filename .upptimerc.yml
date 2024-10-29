@@ -40,4 +40,4 @@ commitMessages:
   commitAuthorEmail: "support@elara.ws"
 
 workflowSchedule:
-  uptime: "*/10 * * * *"
+  uptime: "*/5 * * * *"
