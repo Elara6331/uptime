@@ -4,19 +4,19 @@
     "url": "https://gitea.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.elara.ws.ico",
     "slug": "gitea",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "84.23%",
-    "uptimeWeek": "90.24%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "84.14%",
+    "uptimeWeek": "90.23%",
     "uptimeMonth": "93.91%",
     "uptimeYear": "99.16%",
-    "time": 1036,
+    "time": 1037,
     "timeDay": 1816,
     "timeWeek": 1479,
     "timeMonth": 1864,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2025-05-29": 142,
+      "2025-05-29": 143,
       "2025-05-28": 86,
       "2025-05-27": 9,
       "2025-05-26": 241,
@@ -42,7 +42,7 @@
       "2025-04-17": 152,
       "2025-04-15": 223,
       "2025-04-14": 455,
-      "2025-04-13": 29
+      "2025-04-13": 20
     }
   },
   {
@@ -395,7 +395,7 @@
     "timeMonth": 742,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2025-05-29": 862,
+      "2025-05-29": 882,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
