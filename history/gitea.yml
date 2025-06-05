@@ -1,7 +1,7 @@
 url: https://gitea.elara.ws
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-05T13:47:15.547Z
+status: up
+code: 200
+responseTime: 825
+lastUpdated: 2025-06-05T13:56:55.582Z
 startTime: 2023-11-11T21:57:04.130Z
 generator: Upptime <https://github.com/upptime/upptime>
