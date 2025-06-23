@@ -4,13 +4,13 @@
     "url": "https://gitea.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.elara.ws.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "89.24%",
-    "uptimeWeek": "98.22%",
+    "uptimeDay": "89.21%",
+    "uptimeWeek": "98.21%",
     "uptimeMonth": "95.52%",
     "uptimeYear": "99.38%",
-    "time": 1055,
+    "time": 1056,
     "timeDay": 904,
     "timeWeek": 912,
     "timeMonth": 1015,
@@ -42,8 +42,7 @@
       "2025-05-18": 10,
       "2025-05-15": 78,
       "2025-05-14": 12,
-      "2025-05-10": 73,
-      "2025-05-06": 13
+      "2025-05-10": 73
     }
   },
   {
@@ -51,12 +50,12 @@
     "url": "https://www.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/www.elara.ws.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "97.07%",
-    "uptimeDay": "89.24%",
+    "uptimeDay": "89.20%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "95.98%",
-    "uptimeYear": "95.26%",
+    "uptimeYear": "95.28%",
     "time": 778,
     "timeDay": 855,
     "timeWeek": 896,
@@ -102,7 +101,7 @@
       "2025-05-02": 1440,
       "2025-05-01": 654,
       "2025-04-30": 321,
-      "2025-04-28": 93
+      "2025-04-28": 21
     }
   },
   {
@@ -110,19 +109,19 @@
     "url": "https://lure.sh",
     "icon": "https://icons.duckduckgo.com/ip3/lure.sh.ico",
     "slug": "lure",
-    "status": "up",
+    "status": "down",
     "uptime": "97.12%",
-    "uptimeDay": "88.75%",
+    "uptimeDay": "88.71%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "96.21%",
-    "uptimeYear": "95.35%",
-    "time": 873,
+    "uptimeYear": "95.36%",
+    "time": 874,
     "timeDay": 815,
     "timeWeek": 934,
     "timeMonth": 925,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-06-23": 132,
+      "2025-06-23": 133,
       "2025-06-22": 31,
       "2025-06-20": 25,
       "2025-06-19": 13,
@@ -161,7 +160,7 @@
       "2025-05-02": 1440,
       "2025-05-01": 653,
       "2025-04-30": 329,
-      "2025-04-28": 52
+      "2025-04-28": 21
     }
   },
   {
@@ -321,7 +320,7 @@
     "timeMonth": 794,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-06-23": 417,
+      "2025-06-23": 428,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
