@@ -6,17 +6,17 @@
     "slug": "gitea",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "86.10%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "95.39%",
-    "uptimeYear": "99.62%",
+    "uptimeDay": "85.51%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "99.61%",
     "time": 1021,
     "timeDay": 884,
     "timeWeek": 874,
     "timeMonth": 955,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2025-06-26": 76,
+      "2025-06-26": 85,
       "2025-06-25": 162,
       "2025-06-24": 24,
       "2025-06-23": 304,
@@ -42,13 +42,13 @@
     "url": "https://www.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/www.elara.ws.ico",
     "slug": "site",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "87.61%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "87.59%",
     "uptimeWeek": "94.12%",
-    "uptimeMonth": "95.54%",
-    "uptimeYear": "99.63%",
-    "time": 765,
+    "uptimeMonth": "95.66%",
+    "uptimeYear": "99.64%",
+    "time": 766,
     "timeDay": 894,
     "timeWeek": 877,
     "timeMonth": 942,
@@ -73,8 +73,7 @@
       "2025-06-01": 147,
       "2025-05-29": 75,
       "2025-05-28": 102,
-      "2025-05-27": 9,
-      "2025-05-26": 52
+      "2025-05-27": 9
     }
   },
   {
@@ -82,12 +81,12 @@
     "url": "https://lure.sh",
     "icon": "https://icons.duckduckgo.com/ip3/lure.sh.ico",
     "slug": "lure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "87.60%",
+    "uptimeDay": "87.57%",
     "uptimeWeek": "93.91%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "99.64%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "99.65%",
     "time": 850,
     "timeDay": 843,
     "timeWeek": 854,
@@ -113,7 +112,7 @@
       "2025-06-02": 42,
       "2025-06-01": 147,
       "2025-05-29": 72,
-      "2025-05-28": 78
+      "2025-05-28": 30
     }
   },
   {
@@ -121,12 +120,12 @@
     "url": "https://ci.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/ci.elara.ws.ico",
     "slug": "woodpecker-ci",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "87.58%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "87.56%",
     "uptimeWeek": "94.05%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "99.62%",
+    "uptimeMonth": "95.58%",
+    "uptimeYear": "99.63%",
     "time": 661,
     "timeDay": 704,
     "timeWeek": 711,
@@ -153,7 +152,7 @@
       "2025-05-29": 117,
       "2025-05-28": 61,
       "2025-05-27": 9,
-      "2025-05-26": 118
+      "2025-05-26": 45
     }
   },
   {
@@ -161,13 +160,13 @@
     "url": "https://search.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/search.elara.ws.ico",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "87.56%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "87.53%",
     "uptimeWeek": "93.98%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "99.63%",
-    "time": 676,
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.65%",
+    "time": 677,
     "timeDay": 771,
     "timeWeek": 734,
     "timeMonth": 841,
@@ -193,7 +192,7 @@
       "2025-05-29": 56,
       "2025-05-28": 60,
       "2025-05-27": 9,
-      "2025-05-26": 130
+      "2025-05-26": 57
     }
   },
   {
@@ -201,13 +200,13 @@
     "url": "https://minio.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/minio.elara.ws.ico",
     "slug": "min-io-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "87.54%",
+    "uptimeDay": "87.52%",
     "uptimeWeek": "93.97%",
     "uptimeMonth": "95.63%",
     "uptimeYear": "99.63%",
-    "time": 640,
+    "time": 641,
     "timeDay": 711,
     "timeWeek": 703,
     "timeMonth": 806,
@@ -231,8 +230,7 @@
       "2025-05-29": 85,
       "2025-05-28": 71,
       "2025-05-27": 9,
-      "2025-05-26": 155,
-      "2025-05-24": 14
+      "2025-05-26": 155
     }
   },
   {
@@ -252,7 +250,7 @@
     "timeMonth": 798,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2025-06-26": 415,
+      "2025-06-26": 423,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -355,13 +353,13 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "87.49%",
+    "uptimeDay": "87.46%",
     "uptimeWeek": "93.88%",
-    "uptimeMonth": "95.53%",
+    "uptimeMonth": "95.59%",
     "uptimeYear": "99.63%",
-    "time": 2306,
+    "time": 2309,
     "timeDay": 2168,
     "timeWeek": 2080,
     "timeMonth": 2787,
@@ -386,7 +384,7 @@
       "2025-06-03": 29,
       "2025-06-02": 42,
       "2025-06-01": 147,
-      "2025-05-29": 68
+      "2025-05-29": 42
     }
   }
 ]
