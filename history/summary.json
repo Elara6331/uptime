@@ -47,7 +47,7 @@
     "time": 784,
     "timeDay": 934,
     "timeWeek": 886,
-    "timeMonth": 857,
+    "timeMonth": 852,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2025-07-21": 9,
@@ -81,7 +81,7 @@
     "time": 877,
     "timeDay": 844,
     "timeWeek": 823,
-    "timeMonth": 786,
+    "timeMonth": 779,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2025-07-21": 9,
@@ -116,7 +116,7 @@
     "time": 672,
     "timeDay": 795,
     "timeWeek": 720,
-    "timeMonth": 718,
+    "timeMonth": 716,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2025-07-21": 9,
@@ -150,7 +150,7 @@
     "time": 728,
     "timeDay": 726,
     "timeWeek": 709,
-    "timeMonth": 761,
+    "timeMonth": 767,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-07-21": 9,
@@ -184,7 +184,7 @@
     "time": 653,
     "timeDay": 895,
     "timeWeek": 748,
-    "timeMonth": 717,
+    "timeMonth": 716,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2025-07-21": 9,
@@ -210,18 +210,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.arsenm.dev.ico",
     "slug": "matrix",
     "status": "down",
-    "uptime": "81.16%",
+    "uptime": "81.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.05%",
+    "uptimeYear": "67.82%",
     "time": 562,
     "timeDay": 751,
     "timeWeek": 736,
     "timeMonth": 750,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-07-26": 15,
+      "2025-07-26": 1233,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -353,18 +353,19 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.47%",
-    "uptimeMonth": "95.86%",
+    "uptimeMonth": "95.90%",
     "uptimeYear": "99.66%",
-    "time": 2423,
-    "timeDay": 2343,
-    "timeWeek": 1934,
-    "timeMonth": 2672,
-    "timeYear": 2476,
+    "time": 2449,
+    "timeDay": 12763,
+    "timeWeek": 3569,
+    "timeMonth": 2806,
+    "timeYear": 2504,
     "dailyMinutesDown": {
+      "2025-07-26": 1,
       "2025-07-23": 30,
       "2025-07-21": 9,
       "2025-07-20": 14,
@@ -383,7 +384,7 @@
       "2025-07-02": 307,
       "2025-07-01": 226,
       "2025-06-30": 150,
-      "2025-06-29": 46
+      "2025-06-29": 32
     }
   }
 ]
