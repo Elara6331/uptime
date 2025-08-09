@@ -4,13 +4,13 @@
     "url": "https://gitea.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.elara.ws.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "88.60%",
+    "uptimeDay": "88.58%",
     "uptimeWeek": "97.78%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.62%",
-    "time": 1039,
+    "time": 1040,
     "timeDay": 1560,
     "timeWeek": 1231,
     "timeMonth": 1016,
@@ -35,7 +35,7 @@
       "2025-07-04": 70,
       "2025-07-03": 212,
       "2025-07-02": 299,
-      "2025-07-01": 191
+      "2025-07-01": 175
     }
   },
   {
@@ -43,9 +43,9 @@
     "url": "https://www.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/www.elara.ws.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "89.06%",
+    "uptimeDay": "89.04%",
     "uptimeWeek": "97.84%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.61%",
@@ -75,7 +75,7 @@
       "2025-07-03": 214,
       "2025-07-02": 292,
       "2025-07-01": 221,
-      "2025-06-30": 14
+      "2025-06-30": 7
     }
   },
   {
@@ -83,9 +83,9 @@
     "url": "https://lure.sh",
     "icon": "https://icons.duckduckgo.com/ip3/lure.sh.ico",
     "slug": "lure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "88.23%",
+    "uptimeDay": "88.20%",
     "uptimeWeek": "97.42%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "99.60%",
@@ -116,8 +116,7 @@
       "2025-07-04": 71,
       "2025-07-03": 214,
       "2025-07-02": 292,
-      "2025-07-01": 225,
-      "2025-06-30": 7
+      "2025-07-01": 225
     }
   },
   {
@@ -125,9 +124,9 @@
     "url": "https://ci.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/ci.elara.ws.ico",
     "slug": "woodpecker-ci",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "88.22%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "88.19%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.61%",
@@ -157,7 +156,7 @@
       "2025-07-03": 214,
       "2025-07-02": 285,
       "2025-07-01": 238,
-      "2025-06-30": 22
+      "2025-06-30": 14
     }
   },
   {
@@ -165,12 +164,12 @@
     "url": "https://search.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/search.elara.ws.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "87.55%",
+    "uptimeDay": "87.52%",
     "uptimeWeek": "97.62%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "99.59%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "99.60%",
     "time": 712,
     "timeDay": 724,
     "timeWeek": 725,
@@ -197,7 +196,7 @@
       "2025-07-03": 214,
       "2025-07-02": 316,
       "2025-07-01": 238,
-      "2025-06-30": 45
+      "2025-06-30": 22
     }
   },
   {
@@ -205,9 +204,9 @@
     "url": "https://minio.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/minio.elara.ws.ico",
     "slug": "min-io-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "87.54%",
+    "uptimeDay": "87.50%",
     "uptimeWeek": "97.62%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "99.60%",
@@ -237,7 +236,7 @@
       "2025-07-03": 189,
       "2025-07-02": 305,
       "2025-07-01": 238,
-      "2025-06-30": 59
+      "2025-06-30": 52
     }
   },
   {
@@ -257,7 +256,7 @@
     "timeMonth": 730,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2025-08-09": 492,
+      "2025-08-09": 506,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -402,19 +401,19 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "97.49%",
+    "uptimeDay": "87.46%",
+    "uptimeWeek": "97.48%",
     "uptimeMonth": "97.13%",
     "uptimeYear": "99.59%",
-    "time": 2395,
+    "time": 2396,
     "timeDay": 1883,
     "timeWeek": 2013,
     "timeMonth": 3356,
     "timeYear": 2491,
     "dailyMinutesDown": {
-      "2025-08-09": 80,
+      "2025-08-09": 81,
       "2025-08-08": 101,
       "2025-08-07": 50,
       "2025-08-06": 23,
@@ -438,7 +437,7 @@
       "2025-07-04": 92,
       "2025-07-03": 201,
       "2025-07-02": 307,
-      "2025-07-01": 151
+      "2025-07-01": 143
     }
   }
 ]
