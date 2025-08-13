@@ -1,7 +1,7 @@
 url: https://minio.elara.ws
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-13T17:09:21.199Z
+status: up
+code: 200
+responseTime: 593
+lastUpdated: 2025-08-13T17:20:41.671Z
 startTime: 2023-11-11T21:57:06.707Z
 generator: Upptime <https://github.com/upptime/upptime>
