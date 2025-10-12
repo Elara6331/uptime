@@ -14,7 +14,7 @@
     "timeDay": 1190,
     "timeWeek": 1142,
     "timeMonth": 1282,
-    "timeYear": 1131,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-10-06": 21,
       "2025-10-05": 7,
@@ -135,18 +135,19 @@
     "url": "https://search.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/search.elara.ws.ico",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 769,
     "timeDay": 2963,
     "timeWeek": 1197,
     "timeMonth": 873,
     "timeYear": 783,
     "dailyMinutesDown": {
+      "2025-10-12": 1,
       "2025-10-06": 21,
       "2025-10-01": 13,
       "2025-09-07": 6,
@@ -159,7 +160,7 @@
       "2025-08-14": 232,
       "2025-08-13": 526,
       "2025-08-12": 269,
-      "2025-08-11": 155
+      "2025-08-11": 142
     }
   },
   {
@@ -205,14 +206,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.43%",
+    "uptimeYear": "46.42%",
     "time": 584,
     "timeDay": 1374,
     "timeWeek": 957,
     "timeMonth": 804,
-    "timeYear": 639,
+    "timeYear": 640,
     "dailyMinutesDown": {
-      "2025-10-12": 1388,
+      "2025-10-12": 1414,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -430,7 +431,7 @@
     "timeDay": 8129,
     "timeWeek": 3795,
     "timeMonth": 4690,
-    "timeYear": 2778,
+    "timeYear": 2779,
     "dailyMinutesDown": {
       "2025-10-12": 59,
       "2025-10-11": 15,
