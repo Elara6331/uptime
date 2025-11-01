@@ -14,7 +14,7 @@
     "timeDay": 696,
     "timeWeek": 998,
     "timeMonth": 1276,
-    "timeYear": 1150,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-10-31": 9,
       "2025-10-28": 47,
@@ -52,7 +52,7 @@
     "timeDay": 737,
     "timeWeek": 912,
     "timeMonth": 1077,
-    "timeYear": 942,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2025-10-31": 9,
       "2025-10-28": 43,
@@ -88,7 +88,7 @@
     "timeDay": 601,
     "timeWeek": 797,
     "timeMonth": 916,
-    "timeYear": 890,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2025-10-31": 9,
       "2025-10-28": 43,
@@ -228,14 +228,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.95%",
+    "uptimeYear": "40.94%",
     "time": 598,
     "timeDay": 719,
     "timeWeek": 771,
     "timeMonth": 767,
-    "timeYear": 654,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-11-01": 1388,
+      "2025-11-01": 1428,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -462,19 +462,19 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "98.09%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "98.08%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.72%",
-    "time": 2883,
+    "time": 2884,
     "timeDay": 13697,
     "timeWeek": 8948,
     "timeMonth": 5562,
-    "timeYear": 3053,
+    "timeYear": 3054,
     "dailyMinutesDown": {
-      "2025-11-01": 66,
+      "2025-11-01": 67,
       "2025-10-31": 40,
       "2025-10-30": 7,
       "2025-10-29": 42,
@@ -510,7 +510,7 @@
       "2025-08-19": 20,
       "2025-08-18": 10,
       "2025-08-16": 60,
-      "2025-08-15": 25
+      "2025-08-15": 14
     }
   }
 ]
