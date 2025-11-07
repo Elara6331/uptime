@@ -233,14 +233,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.38%",
+    "uptimeYear": "39.37%",
     "time": 602,
     "timeDay": 594,
     "timeWeek": 749,
     "timeMonth": 763,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-11-07": 1038,
+      "2025-11-07": 1049,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
@@ -472,18 +472,19 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.13%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.71%",
     "time": 2894,
-    "timeDay": 1815,
-    "timeWeek": 6317,
-    "timeMonth": 5517,
-    "timeYear": 3056,
+    "timeDay": 1615,
+    "timeWeek": 6113,
+    "timeMonth": 5473,
+    "timeYear": 3054,
     "dailyMinutesDown": {
+      "2025-11-07": 1,
       "2025-11-05": 60,
       "2025-11-04": 11,
       "2025-11-03": 15,
@@ -523,7 +524,7 @@
       "2025-08-21": 160,
       "2025-08-19": 20,
       "2025-08-18": 10,
-      "2025-08-16": 29
+      "2025-08-16": 21
     }
   }
 ]
