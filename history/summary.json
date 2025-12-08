@@ -4,9 +4,9 @@
     "url": "https://gitea.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.elara.ws.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.65%",
@@ -16,6 +16,7 @@
     "timeMonth": 843,
     "timeYear": 1164,
     "dailyMinutesDown": {
+      "2025-12-08": 1,
       "2025-12-03": 8,
       "2025-11-26": 11,
       "2025-11-20": 58,
@@ -39,7 +40,7 @@
       "2025-08-16": 74,
       "2025-08-15": 89,
       "2025-08-14": 225,
-      "2025-08-13": 138
+      "2025-08-13": 131
     }
   },
   {
@@ -47,18 +48,19 @@
     "url": "https://www.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/www.elara.ws.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 906,
     "timeDay": 810,
     "timeWeek": 812,
     "timeMonth": 827,
     "timeYear": 960,
     "dailyMinutesDown": {
+      "2025-12-08": 0,
       "2025-12-03": 7,
       "2025-11-26": 11,
       "2025-11-20": 58,
@@ -81,7 +83,7 @@
       "2025-08-16": 59,
       "2025-08-15": 89,
       "2025-08-14": 232,
-      "2025-08-13": 271
+      "2025-08-13": 248
     }
   },
   {
@@ -249,18 +251,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.arsenm.dev.ico",
     "slug": "matrix",
     "status": "down",
-    "uptime": "66.66%",
+    "uptime": "66.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.00%",
+    "uptimeYear": "30.85%",
     "time": 620,
     "timeDay": 691,
     "timeWeek": 722,
     "timeMonth": 713,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-12-08": 433,
+      "2025-12-08": 1231,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
