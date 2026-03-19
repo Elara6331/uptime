@@ -4,18 +4,19 @@
     "url": "https://gitea.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.elara.ws.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.62%",
-    "time": 1118,
+    "uptimeYear": "99.63%",
+    "time": 1119,
     "timeDay": 4361,
     "timeWeek": 1722,
     "timeMonth": 1813,
     "timeYear": 1235,
     "dailyMinutesDown": {
+      "2026-03-19": 2,
       "2026-03-18": 24,
       "2026-03-17": 16,
       "2026-03-03": 102,
@@ -47,7 +48,7 @@
       "2025-08-16": 74,
       "2025-08-15": 89,
       "2025-08-14": 225,
-      "2025-08-13": 26
+      "2025-08-13": 14
     }
   },
   {
@@ -55,11 +56,11 @@
     "url": "https://www.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/www.elara.ws.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.64%",
     "time": 956,
     "timeDay": 1168,
@@ -67,6 +68,7 @@
     "timeMonth": 925,
     "timeYear": 1005,
     "dailyMinutesDown": {
+      "2026-03-19": 1,
       "2026-03-03": 121,
       "2026-01-27": 50,
       "2026-01-11": 41,
@@ -95,7 +97,7 @@
       "2025-08-16": 59,
       "2025-08-15": 89,
       "2025-08-14": 232,
-      "2025-08-13": 96
+      "2025-08-13": 89
     }
   },
   {
@@ -103,18 +105,19 @@
     "url": "https://lure.sh",
     "icon": "https://icons.duckduckgo.com/ip3/lure.sh.ico",
     "slug": "lure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 913,
     "timeDay": 1231,
     "timeWeek": 951,
     "timeMonth": 1275,
     "timeYear": 957,
     "dailyMinutesDown": {
+      "2026-03-19": 1,
       "2026-03-03": 102,
       "2026-01-27": 50,
       "2026-01-11": 41,
@@ -143,7 +146,7 @@
       "2025-08-16": 59,
       "2025-08-15": 157,
       "2025-08-14": 232,
-      "2025-08-13": 175
+      "2025-08-13": 138
     }
   },
   {
@@ -295,7 +298,7 @@
     "timeMonth": 783,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2026-03-19": 543,
+      "2026-03-19": 567,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
