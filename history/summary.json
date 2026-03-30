@@ -298,7 +298,7 @@
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2026-03-30": 1090,
+      "2026-03-30": 1115,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -669,19 +669,19 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "90.66%",
+    "uptimeDay": "90.62%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "97.09%",
-    "uptimeYear": "99.51%",
-    "time": 3202,
-    "timeDay": 3721,
-    "timeWeek": 3232,
-    "timeMonth": 3373,
+    "uptimeYear": "99.52%",
+    "time": 3203,
+    "timeDay": 3656,
+    "timeWeek": 3222,
+    "timeMonth": 3370,
     "timeYear": 3287,
     "dailyMinutesDown": {
-      "2026-03-30": 118,
+      "2026-03-30": 119,
       "2026-03-29": 31,
       "2026-03-28": 15,
       "2026-03-27": 22,
@@ -735,7 +735,7 @@
       "2026-01-08": 24,
       "2026-01-05": 14,
       "2026-01-04": 41,
-      "2026-01-03": 63
+      "2026-01-03": 57
     }
   }
 ]
