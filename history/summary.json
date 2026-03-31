@@ -287,7 +287,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.arsenm.dev.ico",
     "slug": "matrix",
     "status": "down",
-    "uptime": "58.03%",
+    "uptime": "58.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -298,7 +298,7 @@
     "timeMonth": 794,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2026-03-31": 23,
+      "2026-03-31": 560,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
@@ -669,18 +669,19 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "97.01%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "97.51%",
     "uptimeMonth": "96.97%",
     "uptimeYear": "99.51%",
-    "time": 3212,
-    "timeDay": 4241,
-    "timeWeek": 3515,
-    "timeMonth": 3418,
-    "timeYear": 3294,
+    "time": 3215,
+    "timeDay": 4582,
+    "timeWeek": 3678,
+    "timeMonth": 3430,
+    "timeYear": 3295,
     "dailyMinutesDown": {
+      "2026-03-31": 1,
       "2026-03-30": 159,
       "2026-03-29": 31,
       "2026-03-28": 15,
@@ -735,7 +736,7 @@
       "2026-01-08": 24,
       "2026-01-05": 14,
       "2026-01-04": 41,
-      "2026-01-03": 46
+      "2026-01-03": 39
     }
   }
 ]
