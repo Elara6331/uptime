@@ -298,7 +298,7 @@
     "timeMonth": 788,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2026-04-04": 3,
+      "2026-04-04": 21,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -671,7 +671,7 @@
     "slug": "gzd-matrix",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "90.13%",
+    "uptimeDay": "91.39%",
     "uptimeWeek": "94.71%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "99.49%",
