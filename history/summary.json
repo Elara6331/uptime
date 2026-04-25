@@ -4,11 +4,11 @@
     "url": "https://gitea.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.elara.ws.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "75.35%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "75.34%",
     "uptimeYear": "97.59%",
     "time": 1211,
     "timeDay": 846,
@@ -16,6 +16,7 @@
     "timeMonth": 1002,
     "timeYear": 1124,
     "dailyMinutesDown": {
+      "2026-04-25": 4,
       "2026-04-22": 22,
       "2026-04-21": 182,
       "2026-04-16": 537,
@@ -57,7 +58,7 @@
       "2025-08-18": 22,
       "2025-08-16": 74,
       "2025-08-15": 89,
-      "2025-08-14": 133
+      "2025-08-14": 124
     }
   },
   {
@@ -65,18 +66,19 @@
     "url": "https://www.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/www.elara.ws.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.22%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "98.19%",
     "uptimeMonth": "79.16%",
-    "uptimeYear": "97.91%",
-    "time": 989,
+    "uptimeYear": "97.92%",
+    "time": 985,
     "timeDay": 878,
     "timeWeek": 1107,
     "timeMonth": 1057,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2026-04-25": 3,
       "2026-04-21": 179,
       "2026-04-16": 37,
       "2026-04-15": 291,
@@ -115,7 +117,7 @@
       "2025-08-16": 59,
       "2025-08-15": 89,
       "2025-08-14": 232,
-      "2025-08-13": 26
+      "2025-08-13": 14
     }
   },
   {
@@ -123,11 +125,11 @@
     "url": "https://lure.sh",
     "icon": "https://icons.duckduckgo.com/ip3/lure.sh.ico",
     "slug": "lure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "75.41%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "75.40%",
     "uptimeYear": "97.59%",
     "time": 936,
     "timeDay": 795,
@@ -135,6 +137,7 @@
     "timeMonth": 905,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2026-04-25": 3,
       "2026-04-21": 178,
       "2026-04-16": 537,
       "2026-04-15": 1440,
@@ -173,7 +176,7 @@
       "2025-08-16": 59,
       "2025-08-15": 157,
       "2025-08-14": 232,
-      "2025-08-13": 64
+      "2025-08-13": 52
     }
   },
   {
@@ -181,18 +184,19 @@
     "url": "https://ci.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/ci.elara.ws.ico",
     "slug": "woodpecker-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "75.41%",
     "uptimeYear": "97.60%",
-    "time": 809,
+    "time": 810,
     "timeDay": 692,
     "timeWeek": 919,
     "timeMonth": 839,
     "timeYear": 857,
     "dailyMinutesDown": {
+      "2026-04-25": 3,
       "2026-04-21": 175,
       "2026-04-16": 537,
       "2026-04-15": 1440,
@@ -226,7 +230,7 @@
       "2025-08-16": 59,
       "2025-08-15": 89,
       "2025-08-14": 233,
-      "2025-08-13": 237
+      "2025-08-13": 229
     }
   },
   {
@@ -234,11 +238,11 @@
     "url": "https://search.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/search.elara.ws.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "75.42%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "75.41%",
     "uptimeYear": "97.61%",
     "time": 844,
     "timeDay": 694,
@@ -246,6 +250,7 @@
     "timeMonth": 912,
     "timeYear": 879,
     "dailyMinutesDown": {
+      "2026-04-25": 2,
       "2026-04-21": 174,
       "2026-04-16": 537,
       "2026-04-15": 1440,
@@ -279,7 +284,7 @@
       "2025-08-16": 60,
       "2025-08-15": 89,
       "2025-08-14": 232,
-      "2025-08-13": 237
+      "2025-08-13": 229
     }
   },
   {
@@ -287,10 +292,10 @@
     "url": "https://minio.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/minio.elara.ws.ico",
     "slug": "min-io-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.30%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.28%",
     "uptimeMonth": "75.42%",
     "uptimeYear": "97.61%",
     "time": 834,
@@ -299,6 +304,7 @@
     "timeMonth": 769,
     "timeYear": 878,
     "dailyMinutesDown": {
+      "2026-04-25": 2,
       "2026-04-21": 171,
       "2026-04-16": 537,
       "2026-04-15": 1440,
@@ -332,7 +338,7 @@
       "2025-08-16": 60,
       "2025-08-15": 89,
       "2025-08-14": 241,
-      "2025-08-13": 238
+      "2025-08-13": 230
     }
   },
   {
@@ -341,7 +347,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.arsenm.dev.ico",
     "slug": "matrix",
     "status": "down",
-    "uptime": "56.41%",
+    "uptime": "56.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -352,7 +358,7 @@
     "timeMonth": 799,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2026-04-25": 27,
+      "2026-04-25": 471,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -724,18 +730,19 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "97.23%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "95.83%",
     "uptimeMonth": "93.47%",
-    "uptimeYear": "99.26%",
-    "time": 3244,
-    "timeDay": 2114,
+    "uptimeYear": "99.27%",
+    "time": 3245,
+    "timeDay": 1870,
     "timeWeek": 3691,
     "timeMonth": 3431,
     "timeYear": 3310,
     "dailyMinutesDown": {
+      "2026-04-25": 1,
       "2026-04-24": 40,
       "2026-04-23": 49,
       "2026-04-22": 41,
@@ -782,7 +789,7 @@
       "2026-03-05": 76,
       "2026-03-04": 42,
       "2026-03-03": 94,
-      "2026-03-02": 77
+      "2026-03-02": 20
     }
   }
 ]
