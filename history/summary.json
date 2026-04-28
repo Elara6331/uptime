@@ -14,7 +14,7 @@
     "timeDay": 928,
     "timeWeek": 1715,
     "timeMonth": 1248,
-    "timeYear": 1123,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2026-04-25": 141,
       "2026-04-22": 22,
@@ -194,7 +194,7 @@
     "timeDay": 965,
     "timeWeek": 914,
     "timeMonth": 848,
-    "timeYear": 853,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2026-04-25": 139,
       "2026-04-21": 175,
@@ -248,7 +248,7 @@
     "timeDay": 1015,
     "timeWeek": 977,
     "timeMonth": 928,
-    "timeYear": 868,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2026-04-25": 139,
       "2026-04-21": 174,
@@ -302,7 +302,7 @@
     "timeDay": 722,
     "timeWeek": 849,
     "timeMonth": 796,
-    "timeYear": 876,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2026-04-25": 139,
       "2026-04-21": 171,
@@ -347,7 +347,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.arsenm.dev.ico",
     "slug": "matrix",
     "status": "down",
-    "uptime": "56.22%",
+    "uptime": "56.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -358,7 +358,7 @@
     "timeMonth": 796,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2026-04-28": 32,
+      "2026-04-28": 304,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -730,18 +730,19 @@
     "url": "$GZD_MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gzd-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "93.16%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "93.15%",
     "uptimeYear": "99.24%",
-    "time": 3246,
+    "time": 3247,
     "timeDay": 2654,
     "timeWeek": 3519,
     "timeMonth": 3425,
     "timeYear": 3311,
     "dailyMinutesDown": {
+      "2026-04-28": 1,
       "2026-04-26": 45,
       "2026-04-25": 138,
       "2026-04-24": 40,
@@ -789,7 +790,7 @@
       "2026-03-06": 28,
       "2026-03-05": 76,
       "2026-03-04": 42,
-      "2026-03-03": 94
+      "2026-03-03": 73
     }
   }
 ]
