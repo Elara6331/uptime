@@ -4,11 +4,11 @@
     "url": "https://gitea.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.elara.ws.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "93.71%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "74.33%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "74.32%",
     "uptimeYear": "97.53%",
     "time": 1149,
     "timeDay": 963,
@@ -16,7 +16,7 @@
     "timeMonth": 1180,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2026-05-02": 90,
+      "2026-05-02": 92,
       "2026-05-01": 211,
       "2026-04-30": 3,
       "2026-04-25": 141,
@@ -60,8 +60,7 @@
       "2025-08-19": 20,
       "2025-08-18": 22,
       "2025-08-16": 74,
-      "2025-08-15": 89,
-      "2025-08-14": 8
+      "2025-08-15": 89
     }
   },
   {
@@ -69,11 +68,11 @@
     "url": "https://www.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/www.elara.ws.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "97.28%",
-    "uptimeMonth": "78.22%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "78.21%",
     "uptimeYear": "97.86%",
     "time": 992,
     "timeDay": 947,
@@ -81,7 +80,7 @@
     "timeMonth": 1015,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2026-05-02": 61,
+      "2026-05-02": 63,
       "2026-05-01": 210,
       "2026-04-30": 2,
       "2026-04-25": 140,
@@ -122,7 +121,7 @@
       "2025-08-18": 19,
       "2025-08-16": 59,
       "2025-08-15": 89,
-      "2025-08-14": 140
+      "2025-08-14": 124
     }
   },
   {
@@ -130,19 +129,19 @@
     "url": "https://lure.sh",
     "icon": "https://icons.duckduckgo.com/ip3/lure.sh.ico",
     "slug": "lure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "74.47%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "74.46%",
     "uptimeYear": "97.53%",
-    "time": 944,
+    "time": 941,
     "timeDay": 861,
     "timeWeek": 791,
     "timeMonth": 866,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2026-05-02": 60,
+      "2026-05-02": 62,
       "2026-05-01": 209,
       "2026-04-30": 2,
       "2026-04-25": 140,
@@ -183,7 +182,7 @@
       "2025-08-18": 10,
       "2025-08-16": 59,
       "2025-08-15": 157,
-      "2025-08-14": 178
+      "2025-08-14": 162
     }
   },
   {
@@ -191,10 +190,10 @@
     "url": "https://ci.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/ci.elara.ws.ico",
     "slug": "woodpecker-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "97.34%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "97.33%",
     "uptimeMonth": "74.48%",
     "uptimeYear": "97.55%",
     "time": 854,
@@ -203,7 +202,7 @@
     "timeMonth": 822,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2026-05-02": 59,
+      "2026-05-02": 60,
       "2026-05-01": 209,
       "2026-04-30": 1,
       "2026-04-25": 139,
@@ -240,7 +239,7 @@
       "2025-08-16": 59,
       "2025-08-15": 89,
       "2025-08-14": 233,
-      "2025-08-13": 78
+      "2025-08-13": 71
     }
   },
   {
@@ -248,19 +247,19 @@
     "url": "https://search.elara.ws",
     "icon": "https://icons.duckduckgo.com/ip3/search.elara.ws.ico",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "97.56%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.55%",
     "uptimeMonth": "74.54%",
     "uptimeYear": "97.56%",
-    "time": 895,
+    "time": 896,
     "timeDay": 825,
     "timeWeek": 781,
     "timeMonth": 890,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2026-05-02": 38,
+      "2026-05-02": 39,
       "2026-05-01": 208,
       "2026-04-30": 1,
       "2026-04-25": 139,
@@ -297,7 +296,7 @@
       "2025-08-16": 60,
       "2025-08-15": 89,
       "2025-08-14": 232,
-      "2025-08-13": 89
+      "2025-08-13": 78
     }
   },
   {
@@ -374,7 +373,7 @@
     "timeMonth": 803,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2026-05-02": 1284,
+      "2026-05-02": 1362,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -750,12 +749,12 @@
     "uptime": "99.68%",
     "uptimeDay": "93.17%",
     "uptimeWeek": "95.21%",
-    "uptimeMonth": "92.99%",
+    "uptimeMonth": "93.02%",
     "uptimeYear": "99.20%",
     "time": 3279,
     "timeDay": 7473,
     "timeWeek": 4049,
-    "timeMonth": 3401,
+    "timeMonth": 3422,
     "timeYear": 3344,
     "dailyMinutesDown": {
       "2026-05-02": 99,
