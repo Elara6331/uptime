@@ -1,7 +1,7 @@
 url: $GZD_MATRIX_URL
-status: up
-code: 200
-responseTime: 2150
-lastUpdated: 2026-06-14T23:35:11.471Z
+status: down
+code: 500
+responseTime: 12980
+lastUpdated: 2026-06-15T05:33:37.940Z
 startTime: 2023-11-12T21:00:18.080Z
 generator: Upptime <https://github.com/upptime/upptime>
